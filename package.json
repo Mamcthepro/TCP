@@ -1,0 +1,16 @@
+{
+  "name": "tcp-entradas",
+  "version": "1.0.0",
+  "description": "venta entradas",
+  "main": "BotMain.js",
+  "dependencies": {
+    "telegraf": "^4.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "/",
+    "dev": "nodemon BotMain.js"
+  },
+  "author": "Rolando Osorio & Mario Merida",
+  "license": "ISC"
+}

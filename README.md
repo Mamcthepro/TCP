@@ -1,6 +1,6 @@
 # TCP
-entradas tcp \n
-comandos antes de empezar \n
+entradas tcp
+comandos antes de empezar
 
-nmp install -g nodemon \n
-npm install telegraf
+# nmp install -g nodemon
+# npm install telegraf
